@@ -1,0 +1,22 @@
+- title: ICCV
+  description: International Joint Conference on Neural Networks
+  sub: AI
+  rank: C
+  dblp: ijcnn
+  confs:
+    - year: 2021
+      id: iccv21
+      link: https://2023.ijcnn.org/
+      timeline:
+        - deadline: '2021-03-17 23:59:59'
+      timezone: UTC-7
+      date: October 10-17, 2021
+      place: Montreal
+    - year: 2023
+      id: ijcnn23
+      link: https://2023.ijcnn.org/
+      timeline:
+        - deadline: '2023-01-31 23:59:59'
+      timezone: UTC+0
+      date: October 2-6, 2023
+      place: Paris
